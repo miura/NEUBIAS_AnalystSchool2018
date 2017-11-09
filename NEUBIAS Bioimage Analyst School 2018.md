@@ -15,14 +15,22 @@ The school program is largely renovated from last year, based on the feed-backs 
 
 The school will be with four types of modules: **Workflow Deconstruction**, **Algorithms of Workflow Components**, **Forums** and **Implementation**. 
 
+### Workflow Deconstruction
+
 In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis workflows. Invited speakers and selected workflow authors from participants present their bioimage analysis workflow in details: the biological problem, algorithms of components including statistical analysis, how they are assembled into the workflow to output either numbers, plots or visualization results. In parallel with these explanations, participants will load those components and reproduce the workflow in their own laptop (reproduce the workflow). Interactive discussion on each of the components, overall design of the workflow and capability of running the workflow in various environments are moderated. 
 
-In **Algorithms of Workflow Components**, invited speackers present in-depth explanation about a specific workflow components e.g. for segmentation denoising, deconvolution, stitching... etc. These talks are aimed at encourgaing participants to expand their knowledge towards the utilization of more effecient, more precise algorithms in their workflow. Following discussions are moderated. 
+### Algorithms of Workflow Components
 
-1. Discussion and comparsion with similar components (plugins, a function in a library, etc) implemented for similar purpose. 
+In **Algorithms of Workflow Components**, invited speackers present in-depth explanation about workflow components. These talks are aimed at encourgaing participants to expand their knowledge towards the utilization of more effecient, more precise algorithms in their workflow. Following discussions are moderated. 
+
+1. Discussion and comparsion with similar components (plugins, a function in a library, etc) implemented for similar purpose
 2. Discussion on interoperability. How to use that components in various ecosystems e.g. Java, Python, MATLAB, R. 
 
-In **Forums**, we will discuss various aspects related to bioimage analysis - with interests surrounding anaysts as profession. Discussion results are summarized and will be reported to the NEUBIAS community.
+### Forums
+
+In **Forums**, we will discuss various aspects related to bioimage analysis - with interests surrounding anaysts as profession  (e.g. How do we teach bioimage analysis?). Discussion results are summarized and will be reported to the NEUBIAS community.
+
+### Implementation
 
 In **Implementation**, participants are split into several groups, and each group implements one of the following issues:
 
@@ -36,11 +44,11 @@ In **Implementation**, participants are split into several groups, and each grou
 
 Participants are expected to be bioimage analysts, analyzing biological image data on daily basis. 
 
-Participant must be fluent in at least one programming language . We do not teach coding, but intensively do coding using several different languages. Skills / flexibility to follow such sessions are a prerequisite. 
+We expect a fluency in at least one programming language. We do not teach coding, but intensively do coding using several different languages. Skills / flexibility to follow such sessions are a prerequisite. 
 
-Participants bring their own laptop. 
+Please bring your own laptop! We do not provide machines.  
 
-There will be no helpers during all sessions. Participants are asked to help each other. 
+There will be no helpers during all sessions. We rather promote attending bioimage analysts to to help each other, also for the networking 
 
 During registration, the applicant is asked to submit at least one bioimage analysis workflow that one has authored / worked on (starting with a specific biological question, describe the workflow in a short paragraph and the type of results: numbers, plots and/or visualization - does not have to be a published paper). Among these applicants, some are selected for presentation as "Workflow Deconstruction" session and lead the session. 
 
@@ -62,7 +70,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
    * [The Paper](http://jcb.rupress.org/content/early/2017/07/28/jcb.201705113) 
-4. Selected workflows (2 hours each) 
+4. Selected workflows (2 hours) 
 
 ### Components and their algorithms
 
@@ -78,8 +86,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
      * [potential talk] headless usage of iLastik
   * ?
      * [potential talk] Natural History of Segmenting Biological Objects 
-  * 
-     * Colocalization from single molecules to cells (candidate topic)
+  * Fabrice Cordelieres
+     * Colocalization from single molecules to cells 
 
 
 ## Forums
