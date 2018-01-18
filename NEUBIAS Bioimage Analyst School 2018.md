@@ -99,7 +99,7 @@ Workflow outlines will be available in a separate file in this repository.
 
 * Invited speakers. 
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
-     * "Natural History of Cost Functions for Object Tracking"
+     * "A short dive into single-particle tracking core algorithms in BioImaging."
   * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
      * Overview of visualization methods
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
