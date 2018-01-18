@@ -78,7 +78,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 * Invited speakers. 
   * Jean-Yves Tinevez
-     * "Natural History of Cost Functions for Object Tracking"
+     * "A short dive into single-particle tracking core algorithms in BioImaging."
   * Tobias Pietzsch 
      * (to be asked, symposium talk already accepted) - overview of visualization methods.
   * Anna Kreshuk 
