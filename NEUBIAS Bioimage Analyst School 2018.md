@@ -18,7 +18,7 @@ Irinyi Building, University of Szeged
 
 **Address:**  
 **Szeged, Tisza Lajos krt. 103.**   
-[Google Map] (https://goo.gl/maps/Ht6XGuZ8Szt)
+[Google Map](https://goo.gl/maps/Ht6XGuZ8Szt)
 
 ### Time
 
@@ -83,7 +83,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
    * Filopodia quantification and statistical analysis (Filopodyan)
    * [The Paper](http://jcb.rupress.org/content/early/2017/07/28/jcb.201705113) 
 
-### Workflows, Student Presentations
+## Workflows, Student Presentations
+
+Presentation of welected workflows submitted by students
 
 - Jagadish Sankaran (National University of Singapore)
 - Hendrik Deschout (Centre for Cellular Imaging, University of Gothenburg)
