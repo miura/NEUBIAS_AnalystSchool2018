@@ -20,6 +20,8 @@ Irinyi Building, University of Szeged
 **Szeged, Tisza Lajos krt. 103.**   
 [Google Map](https://goo.gl/maps/Ht6XGuZ8Szt)
 
+![](imgs/TS_venue.png)
+
 ### Time
 
 Jan 27 (Sat) 11:00  - Jan 30 (Tue) 18:00, 2018 
@@ -28,7 +30,9 @@ Registration on the fist day starts  from 10am.
 
 **For more detailed schedule, see [here](https://docs.google.com/spreadsheets/d/1WCevAgjsBsMp7i2cOdKCES6arct8oC_nhGJfWr-PQs0/edit?usp=sharing).**
 
-## The program 
+## The program ./kmkm
+
+
 
 The school will be with four types of modules: **Workflow Deconstruction**, **Algorithms of Workflow Components**, **Forums** and **Implementation**. 
 
