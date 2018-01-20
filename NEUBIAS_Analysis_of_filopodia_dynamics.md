@@ -17,13 +17,13 @@ In the workshop we will illustrate how Filopodyan can be used to perform these m
 ## Software Installation
 
 
-** Software: **
+**Software**
 
 * Fiji: can be downloaded from https://imagej.net/Fiji/Downloads (installation guidelines: https://imagej.net/Fiji/Downloads#Installation). 
 
 * R: can be downloaded from https://cran.r-project.org/  (installation guidelines in FAQ section 2.5 on the same website). Existing users please check you are running version 3.0.3 (Sincere Pumpkin Patch) or above. 
 
-** Plugin & Packages: **
+**Plugin & Packages:**
 
 * Filopodyan: within Fiji, run the "Update…" command (in Help menu). After update is complete, open "Manage Update Sites", and select Filopodyan (http://sites.imagej.net/Rb7777/) within the provided list. In case of difficulties, perform manual installation as described in the Filopodyan user guide (see Resources), p.2.
 
@@ -39,20 +39,20 @@ In the workshop we will illustrate how Filopodyan can be used to perform these m
    - microscopy: fluorescence microscopy using highly inclined laminated optical (HILO) sheet illumination, acquisition in a single z plane
    - spatial resolution: 65 nm / pixel
    - time resolution [dt]: 2 s between timepoints
-- Location: will be locally distributed in the school. For the purpose of testing the plugin upon installation, a publically available time series may be used, available on: https://github.com/gurdon-institute/Filopodyan/blob/master/growth-cone-test-file.tif
+- Location: will be locally distributed in the school. For the purpose of testing the plugin upon installation, a publically available time series may be used, available on: <https://github.com/gurdon-institute/Filopodyan/blob/master/growth-cone-test-file.tif>
 
 ## Resources
 
-* Complete Filopodyan Github repository: https://github.com/gurdon-institute/Filopodyan/ 
+* Complete Filopodyan Github repository: <https://github.com/gurdon-institute/Filopodyan/ >
 
-* Fiji plugin user guide: https://github.com/gurdon-institute/Filopodyan/blob/master/Filopodyan%20User%20Guide.pdf
+* Fiji plugin user guide: <https://github.com/gurdon-institute/Filopodyan/blob/master/Filopodyan%20User%20Guide.pdf>
 
-* Fiji plugin code and documentation: https://github.com/gurdon-institute/Filopodyan/tree/master/Filopodyan
+* Fiji plugin code and documentation: <https://github.com/gurdon-institute/Filopodyan/tree/master/Filopodyan>
 
-* R scripts overview: https://github.com/gurdon-institute/Filopodyan/blob/master/README.md
+* R scripts overview: <https://github.com/gurdon-institute/Filopodyan/blob/master/README.md>
 
-* R scripts code: https://github.com/gurdon-institute/Filopodyan/tree/master/FilopodyanR
+* R scripts code: <https://github.com/gurdon-institute/Filopodyan/tree/master/FilopodyanR>
 
 ## References:
 
-Urbancic, V., Butler, R., Richier, B., Peter, M., Mason, J., Livesey, F. J., Holt, C. E., Gallop, J. L. 2017. Filopodyan: An Open-Source Pipeline For The Analysis Of Filopodia. http://jcb.rupress.org/content/216/10/3405 DOI: 10.1083/jcb.201705113
+Urbancic, V., Butler, R., Richier, B., Peter, M., Mason, J., Livesey, F. J., Holt, C. E., Gallop, J. L. 2017. Filopodyan: An Open-Source Pipeline For The Analysis Of Filopodia. <http://jcb.rupress.org/content/216/10/3405> DOI: 10.1083/jcb.201705113
