@@ -30,7 +30,7 @@ Registration on the fist day starts  from 10am.
 
 **For more detailed schedule, see [here](https://docs.google.com/spreadsheets/d/1WCevAgjsBsMp7i2cOdKCES6arct8oC_nhGJfWr-PQs0/edit?usp=sharing).**
 
-## The program ./kmkm
+## The program 
 
 
 
