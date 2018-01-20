@@ -81,6 +81,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
+     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/NEUBIAS_Analysis_of_filopodia_dynamics.md)
    * [The Paper](http://jcb.rupress.org/content/early/2017/07/28/jcb.201705113) 
 
 ## Workflows, Student Presentations
