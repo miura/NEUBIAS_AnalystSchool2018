@@ -78,6 +78,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 1. Assaf Zaritsky
    * Cell migration / membrane dynamics analysis / statistics workflows
+     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md) 	
    * Assaf will also give talks in the symposium. 
 
 2. Molnár Csaba
