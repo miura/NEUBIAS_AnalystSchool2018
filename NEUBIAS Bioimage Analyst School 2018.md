@@ -94,12 +94,15 @@ During registration, the applicant is asked to submit at least one bioimage anal
 Presentation of welected workflows submitted by students
 
 - Jagadish Sankaran (National University of Singapore)
+  - [2D FCS](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#2d-fcs)
 - Hendrik Deschout (Centre for Cellular Imaging, University of Gothenburg)
+  - [Clustering of Single Molecule Localizations](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#clustering-of-single-molecule-localizations)
 - Tobias Rasse (ALMF, EMBL)
+  - [Parameter sweeping for cell shape segmentation](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#parameter-sweeping-for-cell-shape-segmentation)
 - Ziqiang Huang (Light Microscopy Facility CRUK Cambridge)
+  - [3D mprphometry of Synapses](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#3d-mprphometry-of-synapses)
 - Tong Li (Centre de Biologie Intégrative, Laboratory of Cellular and Molecular Biology of Control of Proliferation)
-
-Workflow outlines will be available in a separate file in this repository. 
+  - [Mitosis detection and Analysis of Features](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#mitosis-detection-and-analysis-of-features) 
 
 ## Components and their algorithms
 
