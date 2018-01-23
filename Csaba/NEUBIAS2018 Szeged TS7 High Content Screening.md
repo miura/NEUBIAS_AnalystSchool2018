@@ -27,8 +27,8 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
     <!--- - __Python 2.7 (no newer!)__ with libraries *****MISSING
   - Download Python 2.7 installer from [here](https://www.python.org/download/releases/2.7/)
   - Instruction for installation can be found [here](https://www.youtube.com/watch?v=gD4eulxGNok)--->
-- __CellProfiler 2.2.1__
-  - Download CellProfiler 2.2.1 release from [here](http://cellprofiler.org/releases/).
+- __CellProfiler 2.2.0__
+  - Download CellProfiler 2.2.0 release from [here](http://cellprofiler.org/previous_releases/).
   - Be aware of non-English characters in the path of your home directory! If you have those, you have to change the plugin directory by editing registry.
 - __Advanced Cell Classifier__
   - Download ACC 3.0 from [here](http://www.cellclassifier.org/download/). You can use Win standalone version, or you can run it's source code in Matlab.
