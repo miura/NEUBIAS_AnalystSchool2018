@@ -1,7 +1,7 @@
 A short dive into single-particle tracking core algorithms in BioImaging
 ----------------------------------------
 
-**Jean-Yves Tinevez (Institut Pastuer, Paris)**
+**Jean-Yves Tinevez (Institut Pasteur, Paris)**
 
 ABSTRACT: 
 
@@ -15,7 +15,7 @@ ABSTRACT:
 
 (tba: Natural History of Segmenting Biological Objects)
 ----------------------------------------
-**Vannary Meas-Yedid Hardy (Institut Pastuer, Paris)**
+**Vannary Meas-Yedid Hardy (Institut Pasteur, Paris)**
 
 ABSTRACT: 
 
