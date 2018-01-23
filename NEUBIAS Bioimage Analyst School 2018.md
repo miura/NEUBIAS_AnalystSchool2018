@@ -83,6 +83,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 2. Molnár Csaba
    *  High Content Image Data Screening and Analysis
+     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Csaba/NEUBIAS2018%20Szeged%20TS7%20High%20Content%20Screening.md)
+     * [scripts](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
