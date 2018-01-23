@@ -75,13 +75,14 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 1. Assaf Zaritsky
    * Cell migration / membrane dynamics analysis / statistics workflows
-     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md) 	
+     * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md)
+     * [repo](https://github.com/assafzar/MonolayerKymographs) 	
    * Assaf will also give talks in the symposium. 
 
 2. Molnár Csaba
    *  High Content Image Data Screening and Analysis
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Csaba/NEUBIAS2018%20Szeged%20TS7%20High%20Content%20Screening.md)
-     * [scripts](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
+     * [repo](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
@@ -111,7 +112,9 @@ Selected workflows contributed by students
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
      * "A short dive into single-particle tracking core algorithms in BioImaging."
   * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
-     * Overview of visualization methods
+     * Big Data and 3D Visualization
+         * Overview of visualization methods
+         * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Anna will also appear in the symposium and give a more general talk about iLastik
      * headless usage of iLastik
