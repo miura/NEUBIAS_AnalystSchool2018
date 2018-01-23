@@ -24,7 +24,7 @@ Irinyi Building, University of Szeged
 
 ### Time
 
-Jan 27 (Sat) 11:00  - Jan 30 (Tue) 18:00, 2018 
+Jan 27 (Sat) 11:00  - Jan 30 (Tue) 19:00, 2018 
 
 Registration on the fist day starts  from 10am.  
 
