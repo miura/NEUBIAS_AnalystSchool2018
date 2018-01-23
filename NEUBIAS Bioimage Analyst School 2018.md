@@ -32,14 +32,11 @@ Registration on the fist day starts  from 10am.
 
 ## The program 
 
-
-
-The school will be with four types of modules: **Workflow Deconstruction**, **Algorithms of Workflow Components**, **Forums** and **Implementation**. 
+The school is based on the concepts of "workflows and components" in bioimage analysis ([more details here](https://www.authorea.com/users/90123/articles/211121-workflows-and-components-of-bioimage-analysis-the-neubias-concept)) and will be with four types of modules: **Workflow Deconstruction**, **Algorithms of Workflow Components**, **Forums** and **Implementation**. 
 
 In **Workflow Deconstruction**, we reproduce, trace and modify bioimage analysis workflows. Invited speakers and selected workflow authors from participants present their bioimage analysis workflow in details: the biological problem, algorithms of components including statistical analysis, how they are assembled into the workflow to output either numbers, plots or visualization results. In parallel with these explanations, participants will load those components and reproduce the workflow on their own laptop (reproduce the workflow). Interactive discussion on each of the components, the overall design of the workflow and capability of running the workflow in various environments are moderated. 
 
 In **Algorithms of Workflow Components**, invited speakers present in-depth explanation about workflow components. These talks are aimed at encouraging participants to expand their knowledge towards the utilization of more efficient, more precise algorithms in their workflow. Following discussions are moderated. 
-
 
 1. Discussion and comparison with similar components (plugins, a function in a library, etc) implemented for similar purpose
 2. Discussion on interoperability. How to use that component in various ecosystems e.g. Java, Python, MATLAB, R. 
@@ -93,7 +90,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
 
 ## Workflows, Student Presentations
 
-Presentation of welected workflows submitted by students
+Selected workflows contributed by students
 
 - Jagadish Sankaran (National University of Singapore)
   - [2D FCS](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#2d-fcs)
@@ -102,7 +99,7 @@ Presentation of welected workflows submitted by students
 - Tobias Rasse (ALMF, EMBL)
   - [Parameter sweeping for cell shape segmentation](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#parameter-sweeping-for-cell-shape-segmentation)
 - Ziqiang Huang (Light Microscopy Facility CRUK Cambridge)
-  - [3D mprphometry of Synapses](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#3d-mprphometry-of-synapses)
+  - [3D morphometry of Synapses](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#3d-mprphometry-of-synapses)
 - Tong Li (Centre de Biologie Intégrative, Laboratory of Cellular and Molecular Biology of Control of Proliferation)
   - [Mitosis detection and Analysis of Features](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Submitted_Workflow_Presentations.md#mitosis-detection-and-analysis-of-features) 
 
