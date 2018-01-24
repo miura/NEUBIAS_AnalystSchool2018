@@ -108,20 +108,24 @@ Selected workflows contributed by students
 
 "Components": One-hour talks introducing workflow components. Not only about algorithms, they are developing, but more with an overview.
 
-* Invited speakers. 
+* Invited speakers
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
-     * "A short dive into single-particle tracking core algorithms in BioImaging."
+     * A short dive into single-particle tracking core algorithms in BioImaging
+     * Abstract
   * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
      * Big Data and 3D Visualization
          * Overview of visualization methods
-         * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
+     * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Anna will also appear in the symposium and give a more general talk about iLastik
      * headless usage of iLastik
+     * Abstract
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
-     * [potential talk] Natural History of Segmenting Biological Objects 
+     * [potential talk] Natural History of Segmenting Biological Objects
+     * Abstract 
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
-     * Colocalization from single molecules to cells 
+     * Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
+     * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
 
 ## Forums
 

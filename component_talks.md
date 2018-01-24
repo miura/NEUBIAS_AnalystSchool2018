@@ -5,12 +5,17 @@ A short dive into single-particle tracking core algorithms in BioImaging
 
 ABSTRACT: 
 
-(tba: Colocalization from single molecules to cells)
+Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
 ----------------------------------------
+
 
 **Fabrice Cordelieres (Bordeaux Imaging Center)**
 
-ABSTRACT: 
+ABSTRACT: Co-localisation analysis is a one of the main interest of users entering a Facility with slides in hand and nice analysis perspectives in mind. While being available through most, if not all, analysis software, co-localisation tools are mainly perceived as black boxes, fed with images and excreting (the expected) numbers. A large bunch of papers have been trying to push forward one method which would perform better than all the others, losing the focus from the variety of biological problematics which may explain why so many methods exist nowadays.
+
+In this talk, we will aim at deconstructing existing generic co-localisation workflows. By differentiating work-cases, identifying co-localisation reporters and the metrics others have been using, we aim at providing the audience with the elementary bricks and methods to build their really own co-localisation workflows
+
+
 
 
 (tba: Natural History of Segmenting Biological Objects)
