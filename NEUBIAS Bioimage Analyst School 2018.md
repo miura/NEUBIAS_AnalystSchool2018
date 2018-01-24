@@ -1,3 +1,5 @@
+![NEUBIAS](http://eubias.org/NEUBIAS/wp-content/uploads/2016/12/NEUBIAS_COST_Logos.png)
+
 # NEUBIAS Bioimage Analyst School 2018
 
 Dates: Jan 27 - 30th, 2018
