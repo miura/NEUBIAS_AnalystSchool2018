@@ -4,7 +4,7 @@ Szeged, Hungary, 2018
 
 Selected workflows for presentation, initially submitted for the school application. 
 
-##  3D mprphometry of Synapses
+## Synapse Segmentation and Geometric Measurement
 
 **Ziqiang	Huang**  
 [Light Microscopy Facility CRUK Cambridge, UK]( http://www.lightmicroscopy.cruk.cam.ac.uk/new-starter-ziqiang-huang/)
