@@ -7,7 +7,7 @@ Selected workflows for presentation, initially submitted for the school applicat
 ## Synapse Segmentation and Geometric Measurement
 
 **Ziqiang	Huang**  
-[Light Microscopy Facility CRUK Cambridge, UK]( http://www.lightmicroscopy.cruk.cam.ac.uk/new-starter-ziqiang-huang/)
+[Light Microscopy Facility, CRUK-CI, UK](http://www.lightmicroscopy.cruk.cam.ac.uk/)
 
 ### Collections and Components 
 
