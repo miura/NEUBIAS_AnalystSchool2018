@@ -11,7 +11,7 @@ Selected workflows for presentation, initially submitted for the school applicat
 
 ### Collections and Components 
 
-IJ, iLastik, MATLAB
+TrakEM2, ilastik, MATLAB
 
 ### Workflow Outline
 
