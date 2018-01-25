@@ -24,14 +24,18 @@ Statistics and Machine Learning Toolbox
 
 ## Sample Data
 
-- Approximate total size of sample data set: 40 GB max (I am ocnsidering using only derivde data which would make it < 5 GB)
+- Approximate total size of sample data set: 20 GB (could be much less, still considering)
 - Capturing conditions
    - organism: Human Bronchial Epithelial Cells
    - labeled protein: none
    - microscopy: Phase contrast
    - spatial resolution: 0.908 um / pixel
    - time resolution [dt]: 5 minutes per frame
-- Location: https://cloud.biohpc.swmed.edu/index.php/s/R8e7zes51ZMC00f
+- Location: 
+Coordination (137MB): https://cloud.biohpc.swmed.edu/index.php/s/7ks3mjyujpu9pMg
+Spatiotemporal representation of onset of collective cell migration (120MB): https://cloud.biohpc.swmed.edu/index.php/s/SWGQQJySbOI206o/download
+Screen (20GB): https://cloud.biohpc.swmed.edu/index.php/s/R8e7zes51ZMC00f
+
 
 ## Resources
 
