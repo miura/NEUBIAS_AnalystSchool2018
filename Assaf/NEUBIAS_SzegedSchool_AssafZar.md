@@ -42,6 +42,8 @@ https://github.com/assafzar/MonolayerKymographs (in progress)
 
 Nock and Nielsen, Statistical Region Merging (2004)http://ieeexplore.ieee.org/abstract/document/1335450/
 
+Zaritsky et al. Propagating waves of directionality and coordination orchestrate collective cell migration (2014) http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003747 
+
 Zaritsky et al. Seeds of locally aligned motion and stress coordinate a collective cell migration (2015) http://jcb.rupress.org/content/early/2017/05/15/jcb.201609095 
 
 Zaritsky, Tseng et al. Diverse roles of guanine nucleotide exchange factors in regulating collective cell migration (2017) www.cell.com/biophysj/abstract/S0006-3495(15)01123-6
