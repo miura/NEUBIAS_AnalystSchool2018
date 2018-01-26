@@ -16,6 +16,18 @@ but it did not work for me.
 
 **solution:** (installation from source did not work, ) So I use a windows VM.
 
+**Beth Cimini's comments**: You have to install from source for that.
+There are some dependency conflicts I think that often crop up (I'm pretty sure matplotlib is one of them) so I can also send over a list of package versions that I know work nicely on Linux with 2.2
+
+Overall Instructions: 
+
+<https://github.com/CellProfiler/CellProfiler/wiki/Source-installation-%28Linux%29>
+
+(you'll want to use the stable branch)
+
+Package versions  
+<http://forum.image.sc/t/cellprofiler2-2-0-linux/4976/2>
+
 
 ### Installation and JAVA version
 
