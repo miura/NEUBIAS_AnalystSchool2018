@@ -56,3 +56,11 @@ RStudio has a number of added functionalities and a neat GUI, which can make it 
 ## Nuno Martins
 
 I downloaded the wrong version of ACC, it should be the ACC source code instead of the standalone versions and I think it fixed my issue.
+### For Mac users:
+Problem:
+ACC Mac Stand Alone version requires installation of Matlab runtime and Matlab R2017a. If you have R2017b installed, will give an error requesting previous version.
+
+Solution (proposed by Csaba Molnar):
+- Download ACC Source code instead.
+- Unzip the package.
+- run ACC from: ACC_3.0_source/ACC/startup.m
