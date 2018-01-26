@@ -89,6 +89,9 @@ During registration, the applicant is asked to submit at least one bioimage anal
 3. Vasja Urbancic
    * Filopodia quantification and statistical analysis (Filopodyan)
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Vasja/NEUBIAS_Analysis_of_filopodia_dynamics.md)
+     * TroubleShooting cases and QAs
+         * [CellProfiler](TroubleShooting-QA.md#cellprofiler-220)
+         * [R](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/TroubleShooting-QA.md#r)
    * [The Paper](http://jcb.rupress.org/content/early/2017/07/28/jcb.201705113) 
 
 ## Workflows, Student Presentations
