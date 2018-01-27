@@ -45,7 +45,7 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
    - time resolution [dt]: -.
 - Location: local storage
     * Mount the drive available at address __\\\HVPC\TS__. Username: __INF\ts2018__, password: __Training__.
-    * The input data is in folder __TS7/Csaba/DataWorkingData__.
+    * The input data is in folder __TS7/Csaba/Data/WorkingData__.
     * Backup data (in case of any errors) can be found in __TS7/Csaba/Data/BackupData__.
     * All the Matlab scripts (including the source of ACC) __TS7/Csaba/CodeandSoftware__.
 
