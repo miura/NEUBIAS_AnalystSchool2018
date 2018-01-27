@@ -43,7 +43,11 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
    - microscopy: fluorescent, ImageXpress 5000A high-content imaging platform (Molecular Devices), ×20 PanFluor ELWD Ph1 DM objective, 16-bit camera binning resolution of 1
    - spatial resolution: .
    - time resolution [dt]: -.
-- Location: will be locally distributed in the school
+- Location: local storage
+    * Mount the drive available at address __\\\HVPC\TS__. Username: __INF\ts2018__, password: __Training__.
+    * The input data is in folder __TS7/Csaba/DataWorkingData__.
+    * Backup data (in case of any errors) can be found in __TS7/Csaba/Data/BackupData__.
+    * All the Matlab scripts (including the source of ACC) __TS7/Csaba/CodeandSoftware__.
 
 ## Resources
 
