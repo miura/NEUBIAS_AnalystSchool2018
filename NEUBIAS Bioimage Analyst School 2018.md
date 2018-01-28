@@ -131,6 +131,7 @@ Selected workflows contributed by students
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
      * Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
+     * [slides PDF](https://github.com/fabricecordelieres/Training_material/blob/master/English/18-01-28%20NEUBIAS-Colocalisation/18-01-28%20NEUBIAS-Colocalisation.pdf)
 
 ## Forums
 
