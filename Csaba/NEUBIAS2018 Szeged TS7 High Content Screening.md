@@ -31,17 +31,17 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
   - Download CellProfiler 2.2.0 release from [here](http://cellprofiler.org/previous_releases/).
   - Be aware of non-English characters in the path of your home directory! If you have those, you have to change the plugin directory by editing registry.
 - __Advanced Cell Classifier__
-  - Download ACC 3.0 from [here](http://www.cellclassifier.org/download/). You can use Win standalone version, or you can run it's source code in Matlab.
-  - Download [ExportToACC](http://eucaiorg.ipage.com/ACC/wp-content/uploads/2016/07/ExportToACCmodule.zip) CellProfiler module for saving data in ACC format. Copy exporttoacc.py file into the CellProfiler's plugins directory (File->Preferences->CellProfiler plugins directory).
+  - Download ACC 3.0 from [here](http://www.cellclassifier.org/download/). You can run it's source code in Matlab (ACC/startup.m).
+  - Download [ExportToACC](http://eucaiorg.ipage.com/ACC/wp-content/uploads/2016/07/ExportToACCmodule.zip) CellProfiler module for saving data in ACC data structure. Copy exporttoacc.py file into the CellProfiler's plugins directory (File->Preferences->CellProfiler plugins directory).
 
 ## Sample Data
 
-- Approximate total size of sample data set: ~2GB raw data -> ~10GB in total
+- Approximate total size of sample data set: ~
 - Capturing conditions
    - organism: human MCF-7 breast cancer cells
    - labeled: DNA (DAPI), F-actin (Phalloidin) and B-tubulin (anti–β-tubulin antibody)
    - microscopy: fluorescent, ImageXpress 5000A high-content imaging platform (Molecular Devices), ×20 PanFluor ELWD Ph1 DM objective, 16-bit camera binning resolution of 1
-   - spatial resolution: .
+   - spatial resolution: ?.
    - time resolution [dt]: -.
 - Location: local storage
     * Mount the drive available at address __\\\HVPC\TS__. Username: __INF\ts2018__, password: __Training__.
@@ -57,7 +57,6 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
 - Advanced Cell Classifier [http://www.cellclassifier.org/](http://www.cellclassifier.org/)
 - CellProfiler [http://cellprofiler.org/releases/](http://cellprofiler.org/releases/)
 - Image data were selected from the Broad Bioimage Benchmark Collection ([BBBC021](https://data.broadinstitute.org/bbbc/BBBC021/))
-
 
 ## References:
 
