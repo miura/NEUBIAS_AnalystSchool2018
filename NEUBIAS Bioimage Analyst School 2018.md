@@ -139,6 +139,7 @@ Forums are moderated in between sessions.
 
 - Discussion on working environments: how each is interacting with biologists, how they are teaching. Recommended teaching methods, failed teaching methods. 
 - "Bioimage analysis workflow of the year": share your opinion / comments on recent bioimage analysis workflows that impressed you. 
+- [slides](https://docs.google.com/presentation/d/15mVT4exg_pD5QyEOTbEB6a3a5Sf_4YZMiqT3o-pS0Pk/edit#slide=id.g329124a171_0_15)
 
 
 ## Implementations / Presentations
