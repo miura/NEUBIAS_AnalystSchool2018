@@ -28,6 +28,10 @@ Overall Instructions:
 Package versions  
 <http://forum.image.sc/t/cellprofiler2-2-0-linux/4976/2>
 
+**Nicolas C and Sebastien H**
+
+In case of error `Command "python setup.py egg_info" failed with error code 1 `:
+run: `sudo pip install --upgrade setuptools`
 
 ### Installation and JAVA version
 
