@@ -52,7 +52,7 @@ Processing Toolbox, Statistics and Machine Learning Toolbox, and Bioinformatics 
 ## Resources
 
 - Repository of TS7 on [GitHub](https://github.com/miura/NEUBIAS_AnalystSchool2018) (being prepared)
-- Also in Dropbox [workflow.zip](https://www.dropbox.com/s/p28g99qqatoaxd0/workflow.zip?dl=0)
+- Also in Dropbox (temporarily removed)
 - Advanced Cell Classifier [http://www.cellclassifier.org/](http://www.cellclassifier.org/)
 - CellProfiler [http://cellprofiler.org/releases/](http://cellprofiler.org/releases/)
 - Image data were selected from the Broad Bioimage Benchmark Collection ([BBBC021](https://data.broadinstitute.org/bbbc/BBBC021/))
