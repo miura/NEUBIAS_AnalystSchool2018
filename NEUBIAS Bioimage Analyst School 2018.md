@@ -78,7 +78,8 @@ During registration, the applicant is asked to submit at least one bioimage anal
 1. Assaf Zaritsky
    * Cell migration / membrane dynamics analysis / statistics workflows
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Assaf/NEUBIAS_SzegedSchool_AssafZar.md)
-     * [repo](https://github.com/assafzar/MonolayerKymographs) 	
+     * [repo](https://github.com/assafzar/MonolayerKymographs) 
+     * [slides PDF](Assaf/collectiveMigrationWorkflowDeconstruction.pdf)
    * Assaf will also give talks in the symposium. 
 
 2. Molnár Csaba
@@ -87,7 +88,7 @@ During registration, the applicant is asked to submit at least one bioimage anal
      * [repo](https://github.com/csmolnar/NEUBIAS_2018_TS7_HCS) 
    *  Csaba is also a local organizer of the conference. 
 3. Vasja Urbancic
-   * Filopodia quantification and statistical analysis (Filopodyan)
+   * Filopodia Dynamics and Automated Image Analysis (Filopodyan)
      * [Instructions (installations and misc)](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/Vasja/NEUBIAS_Analysis_of_filopodia_dynamics.md)
      * TroubleShooting cases and QAs
          * [CellProfiler](TroubleShooting-QA.md#cellprofiler-220)
@@ -117,10 +118,10 @@ Selected workflows contributed by students
   * Jean-Yves Tinevez ([Link](https://research.pasteur.fr/en/member/jean-yves-tinevez/))
      * A short dive into single-particle tracking core algorithms in BioImaging
      * Abstract
-  * Tobias Pietzsch ([Link](https://github.com/tpietzsch))
+  * Tobias Pietzsch ([Link](https://github.com/tpietzsch)) and Florian Jug ([Link](https://github.com/fjug))
      * Big Data and 3D Visualization
-         * Overview of visualization methods
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#big-data-and-3d-visualization)
+     * [slides PDF](https://imagej.net/_images/9/9b/Jug_BigDataAnd3dViz.pdf)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Anna will also appear in the symposium and give a more general talk about iLastik
      * headless usage of iLastik
@@ -150,7 +151,7 @@ Forums are moderated in between sessions.
 
 ## Implementations / Presentations
 
-School participants are asked to present their implementations (by group) on the last day of the school. 
+School participants are asked to present their implementations (by group) on the last day of the school. 7 groups, 15 minutes presentation + 5 minutes questions and answers. 
 
 
 
