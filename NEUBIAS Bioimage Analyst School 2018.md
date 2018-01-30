@@ -124,7 +124,8 @@ Selected workflows contributed by students
      * [slides PDF](https://imagej.net/_images/9/9b/Jug_BigDataAnd3dViz.pdf)
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Anna will also appear in the symposium and give a more general talk about iLastik
-     * headless usage of iLastik
+     * Pipelining with ilastik
+         * Introduction to Ilastik and the headless usage
      * Abstract
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
      * [potential talk] Natural History of Segmenting Biological Objects
