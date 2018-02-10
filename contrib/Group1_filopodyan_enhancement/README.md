@@ -1,9 +1,9 @@
 # Group 1 members :<br> 
-Dyankova Teodora ([dyankova@bio21.bas.bg](dyankova@bio21.bas.bg), Bulgaria)<br>
-Molodij Guillaume ([guillaume.molodij@weizmann.ac.il](guillaume.molodij@weizmann.ac.il), Israel)<br>
-Huang, Ziqiang ([ziqiang.huang@cruk.cam.ac.uk](ziqiang.huang@cruk.cam.ac.uk), United Kingdom)<br>
-Šoštar Marko ([msostar@irb.hr](msostar@irb.hr), Croatia)<br>
-LI Tong ([tongli.bioinfo@gmail.com](tongli.bioinfo@gmail.com), France)<br>
+Dyankova Teodora (<dyankova@bio21.bas.bg>, Bulgaria)<br>
+Molodij Guillaume (<guillaume.molodij@weizmann.ac.il>, Israel)<br>
+Huang, Ziqiang (<ziqiang.huang@cruk.cam.ac.uk>, United Kingdom)<br>
+Šoštar Marko (<msostar@irb.hr>, Croatia)<br>
+LI Tong (<tongli.bioinfo@gmail.com>, France)<br>
 
 Briefly, we use a [rolling ball denoising method](https://imagej.net/Rolling_Ball_Background_Subtraction) to remove the cell body noisy background and enhance the tubular-like signals with [tubeness plugin](https://www.longair.net/edinburgh/imagej/tubeness/) in Fiji.<br>
 The following image shows the differences between Filopodyan(left) and our method (right).
