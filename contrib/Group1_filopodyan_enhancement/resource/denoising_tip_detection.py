@@ -15,7 +15,7 @@ def processSlice(frame):
 	processed.close()
 	return processor
 
-def ProcessImg(img, resFolder):
+def ProcessImg(img):
 	w = img.getDimensions()[0]
 	h = img.getDimensions()[1]
 	t = img.getDimensions()[-1]
@@ -26,14 +26,14 @@ def ProcessImg(img, resFolder):
 		stack.addSlice(str(i),processSlice(imp2))
 	return stack
 
-def ProcessFiles(directory, resFolder):
+def ProcessFiles(directory):
 	for r,ds,fs in os.walk(str(directory)):
 		for f in fs:
 			if f.endswith(extension):
 				imp = IJ.openImage(r + os.sep + f)
 				imp.show()
-				stack = ProcessImg(imp, ResultsSubFolderName)
-				newimp = ImagePlus("test", stack)
+				stack = ProcessImg(imp)
+				newimp = ImagePlus("newImage" + f, stack)
 				newimp.show()
 
-ProcessFiles(str(directory), ResultsSubFolderName);
+ProcessFiles(str(directory));
