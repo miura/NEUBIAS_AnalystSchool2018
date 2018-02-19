@@ -129,9 +129,11 @@ Selected workflows contributed by students
   * Anna Kreshuk ([Link](https://hciweb.iwr.uni-heidelberg.de/Staff/akreshuk))
      * Title: Pipelining with ilastik
          * Introduction to Ilastik and the headless usage
+         * [slides PDF](slides/Anna_Pipelining_with_ilastik_2018.pdf)
      * Anna will also appear in the symposium and give a more general talk about iLastik 
   * Vannary Meas-Yedid Hardy ([link](https://research.pasteur.fr/en/member/vannary-meas-yedid-hardy/))
-     * Title: Image Segmentation 
+     * Title: Image Segmentation
+     * [slides PDF](slides/Vannary_Neubias_ImageSegmentation_2018.pdf)
   * Fabrice Cordelieres ([Link](https://www.researchgate.net/profile/Fabrice_Cordelieres))
      * Title: Deconstructing co-localisation workflows: from co-expression assessment to super-resolved co-distribution analysis
      * [Abstract](https://github.com/miura/NEUBIAS_AnalystSchool2018/blob/master/component_talks.md#deconstructing-co-localisation-workflows-from-co-expression-assessment-to-super-resolved-co-distribution-analysis)
