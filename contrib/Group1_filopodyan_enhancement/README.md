@@ -16,4 +16,5 @@ The reason you __should not do__ this is because we used the LoG detector for do
 is to use Trackmate to detection dots first and then keep only the ones inside the mask with custom script.
 
 In the [resource folder](resource), you can find denoising script (ij1 macro and Python version) and some methods to convert Trackmate XML output to pandas dataframe for further analysis in python.
+
 [processed]: resource/processed.png
